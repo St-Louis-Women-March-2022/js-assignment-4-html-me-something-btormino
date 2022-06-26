@@ -1,4 +1,38 @@
-p {
-    margin: 25px 35px 25px 50px;
+body{
+    
+    background-color: aliceblue;
+    font-family: fangsong;
+    margin: 8px;
+    padding: 10px;
+    display: block;
+    color:#08336b;
+}
+#mainHeading {
+    color: red;
+}
+p.funParagraph {
+    color: green;
+}
+h1, h2, nav, p {
+    margin: 25px 100px;
+} 
+figure {
+    margin: 25px 300px;
+}
+#Lira {
+    margin: 25px 50px;
+}
+#casa {
+    margin: 25px 150px;
+}
+#musso {
+    margin: 25px 250px;
+}
+h3, h4{
+    margin: 10px 100px;
+    padding: auto;
+}
+p.source {
+    margin: 15px 100px;
 }
 
